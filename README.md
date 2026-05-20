@@ -198,8 +198,8 @@ MIT. See [LICENSE](LICENSE) for the full text.
 | Name | Role |
 |------|------|
 | [Minsu Kim](https://github.com/minkim26) | Maintainer |
-| [Adithya Nair](https://github.com/nairadi) | Contributor |
-| [Ryan Shankar](https://github.com/shankary) | Contributor |
+| [Adithya Nair](https://github.com/nairadi0) | Contributor |
+| [Ryan Shankar](https://github.com/Shankary23) | Contributor |
 
 ---
 
